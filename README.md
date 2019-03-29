@@ -7,9 +7,9 @@
 
 Để trả lời câu hỏi này, thì chúng ta phải trả lời câu hỏi "telegram là gì?".
 
-Telegram là một ứng dụng cung cấp dịch vụ instance message. Không thể nói nó là một OTT được, vì bạn không call qua nó được. 
+Telegram là một ứng dụng cung cấp dịch vụ instance message. Không thể nói nó là một OTT vì bạn không call qua nó được. 
 
-Vậy telegram bot là gì? vâng, nó là một con bot kết nối tới telegram để xử lý các message một cách từ động.
+Vậy telegram bot là gì? vâng, nó là một con bot kết nối tới telegram để xử lý các message một cách tự động.
 
 ### Telegram bot làm được gì?
 
